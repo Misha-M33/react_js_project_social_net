@@ -1,0 +1,24 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(53, 216, 24);
+    padding: 20px;
+    
+  }
+  .item a{color: white;
+     text-decoration: none ;}
+     .friend { color: white;}
+  
+  .item a.activeLink {color: gold;}
+  .tri { display: flex;
+   flex-direction: row;
+   
+}
+   /*.sasha { padding: 0 20px;
+      width: 40px;
+      height: 40px;
+   border-radius: 20px;
+   background-color: rgb(255, 38, 0);}
+   .circl { width: 40px;
+      height: 40px;
+      border-radius: 20px;
+      background-color: rgb(255, 38, 0);}*/
